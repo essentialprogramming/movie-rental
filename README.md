@@ -1,4 +1,4 @@
-### 3. Movie Rental
+### Movie Rental
 Write an application for movie rentals. The application will store:
 - **Movie**: `movie_id`, `title`, `description`, `genre`
 - **Client**: `client_id`, `name`
